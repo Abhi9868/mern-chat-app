@@ -1,5 +1,5 @@
 import React from "react";
-import { Lottie } from "lottie-react";
+import Lottie from "lottie-react";
 import animationData from "../../../frontend/public/animation.json"; // Ensure the path is correct
 
 const AuthImagePattern = ({ title, subtitle }) => {
