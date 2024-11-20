@@ -9,8 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "lottie-react": "^2.4.0"
-  }
+  "license": "ISC"
 }
