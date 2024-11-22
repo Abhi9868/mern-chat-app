@@ -1,6 +1,6 @@
 import crypto from "crypto";
 
-const ENCRYPTION_KEY = b8e9271a8b4e8e0b9b9c76126c8c3c74fbbd2562ee245d3478db0c937b17e1c3
+const ENCRYPTION_KEY = "b8e9271a8b4e8e0b9b9c76126c8c3c74fbbd2562ee245d3478db0c937b17e1c3"
 
 // AES-256 CBC Encryption and Decryption
 const algorithm = "aes-256-cbc";
